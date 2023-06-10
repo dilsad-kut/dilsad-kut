@@ -3,7 +3,7 @@
 
 ***print("Hello World!")*** <br>
 ### Hi, I'm Dılşad👋 
-**Information Systems Engineer | Data Scientist | Business Intelligence** <br>
+**Information Systems Engineer | Data Analyst | Business Intelligence** <br>
 ***>>>>> This is my other github account (But this is my old account and I don't use it actively) = > <a href='https://github.com/dilsadkut'> Go to My Other Github Account</a>*** 
 - 🌴 I’m currently learning ***Business Intelligence(BI) technologies and tools***
 - 👨‍💻 Some of my projects are available at ***<a href="https://dilsadkutt.github.io">dilsadkutt.github.io</a>***

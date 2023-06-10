@@ -1,5 +1,9 @@
+<!-->
+ <img src="https://images.squarespace-cdn.com/content/v1/5a2a067e8dd04151f6e8250d/1526688519736-AZLJWN3JO7FZVX0RF05D/Final-GIF.gif?format=2500w" width=1000>
+ -->
 
-<img src="https://images.squarespace-cdn.com/content/v1/5a2a067e8dd04151f6e8250d/1526688519736-AZLJWN3JO7FZVX0RF05D/Final-GIF.gif?format=2500w" width=1000>
+ <img src="C:\Users\lenovo\OneDrive\Masaüstü\dilsadkutt\Bg\Kapak.png">
+
 
 ***print("Hello World!")*** <br>
 ### Hi, I'm Dılşad👋 
@@ -10,7 +14,9 @@
 - 📝 I rarely write articles on ***[medium.com/@dilsadkut](https://medium.com/@dilsadkut)***
 - ✉️ How to reach me: ***ftdrgy4uw@relay.firefox.com***
 
-<img align=right src="https://indoanalytica.com/static/images/data-science-1.gif" width="300">
+<!-->
+<img align=right src="https://indoanalytica.com/static/images/data-science-1.gif" width="300"> 
+-->
 
 ### Languages and Tools✔️ 
 <img src="https://camo.githubusercontent.com/78c64bf530da9cdf77a80a0afa221ad1e3d533a963bef130a47c6009bdd028f5/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7461626c6561752e737667" width="60" height="40"/>  <img src="https://i1.wp.com/www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png?fit=350%2C350&ssl=1" width="40" height="40"/> <img src="https://camo.githubusercontent.com/f6f16d10d07a5a34951a03140820ef7bd9db9da03fd7677b83dd37eefee3df2b/68747470733a2f2f7777772e6b6e696d652e636f6d2f66696c65732f6b6e696d655f6c6f676f5f6769746875625f34307834305f346c61796572732e706e67" width="40" height="40"/> 

@@ -1,5 +1,5 @@
 
- <img src="https://github.com/dilsadkutt/dilsadkutt/blob/main/bg/bg.png">
+ <img src="https://github.com/dilsadkutt/dilsadkutt/blob/main/bg/bg2.png">
 <hr>
 
  ### Hi, I'm Dılşad👋 

@@ -3,7 +3,7 @@
 <hr>
 
  ### Hi, I'm Dılşad👋 
-**Information Systems Engineer | Data Analyst | Business Intelligence**
+**Istanbul University-Management Information Systems | Information Systems Engineer | Data Analyst | Business Intelligence**
 <br>
 <a href='https://github.com/dilsadkut'> Click to access my old Github account</a>
 

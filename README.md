@@ -2,7 +2,7 @@
  <img src="https://github.com/dilsadkutt/dilsadkutt/blob/main/bg/bg2.png">
 <br>
 
- ### Hi, I'm Dılşad👋 
+ ### Hi, I'm Dılşad Kut👋 
  
 ***Istanbul University-Management Information Systems | Information Systems Engineer*** <br>
 ***Data Analyst | Business Intelligence*** <br> <br>

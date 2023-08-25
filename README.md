@@ -1,13 +1,8 @@
 
- <img src="https://github.com/dilsadkutt/dilsadkutt/blob/main/bg/bg2.png">
-<br>
-
- ### Hi, I'm Dılşad Kut👋 
+ <img src="https://github.com/dilsadkutt/dilsadkutt/blob/main/bg/bg3.png">
  
+### Hi, I'm Dılşad👋 
 ***Istanbul University-Management Information Systems, Data Analyst, Business Intelligence*** 
-
-<a href='https://github.com/dilsadkut'> Click to access my old Github account</a>
-<br>
 - 🌴 I’m currently learning ***Business Intelligence(BI) technologies and tools***
 - 👨‍💻 Some of my projects are available at ***<a href="https://dilsadkutt.github.io">dilsadkutt.github.io</a>***
 - 📝 I rarely write articles on ***[medium.com/@dilsadkut](https://medium.com/@dilsadkut)***

@@ -4,8 +4,8 @@
 
  ### Hi, I'm Dılşad Kut👋 
  
-***Istanbul University-Management Information Systems | Information Systems Engineer*** <br>
-***Data Analyst | Business Intelligence*** <br> <br>
+***Istanbul University-Management Information Systems, Data Analyst, Business Intelligence*** 
+
 <a href='https://github.com/dilsadkut'> Click to access my old Github account</a>
 <br>
 - 🌴 I’m currently learning ***Business Intelligence(BI) technologies and tools***

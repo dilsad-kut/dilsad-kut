@@ -1,5 +1,5 @@
 
- <img src="https://github.com/dilsadkutt/dilsadkutt/blob/main/bg/bg3.png">
+ <img src="https://github.com/dilsadkutt/dilsadkutt/blob/main/bg/bg4.png">
  
 ### Hi, I'm Dılşad👋 
 ***Istanbul University-Management Information Systems, Data Analyst, Business Intelligence*** 

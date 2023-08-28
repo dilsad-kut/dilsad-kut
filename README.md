@@ -2,7 +2,7 @@
  <img src="https://github.com/dilsadkutt/dilsadkutt/blob/main/bg/bg4.png">
  
 ### Hi, I'm Dılşad👋 
-- :student: Nowadays, I am a ***Management Information Systems Undergraduate Student at Istanbul University*** 
+- :man_student: Nowadays, I am a ***Management Information Systems Undergraduate Student at Istanbul University*** 
 - :sparkles: ***A Data Analyst*** who is interested in ***Business Intelligence***
 - 🌴 I’m currently learning ***Business Intelligence(BI) technologies and tools***
 - 👨‍💻 Some of my projects are available at ***<a href="https://dilsad-kut.github.io">dilsad-kut.github.io</a>***

@@ -4,7 +4,7 @@
 ### Hi, I'm Dılşad👋 
 ***Istanbul University-Management Information Systems, Data Analyst, Business Intelligence*** 
 - 🌴 I’m currently learning ***Business Intelligence(BI) technologies and tools***
-- 👨‍💻 Some of my projects are available at ***<a href="https://dilsadkutt.github.io">dilsadkutt.github.io</a>***
+- 👨‍💻 Some of my projects are available at ***<a href="https://dilsad-kut.github.io">dilsad-kut.github.io</a>***
 - 📝 I rarely write articles on ***[medium.com/@dilsadkut](https://medium.com/@dilsadkut)***
 - ✉️ How to reach me: ***ftdrgy4uw@relay.firefox.com***
 

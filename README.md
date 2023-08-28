@@ -15,8 +15,8 @@
 
 ### Some of My Github Stats📈 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilsadkutt&include_all_commits=true&show_icons=true&theme=react" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilsadkutt&layout=compact&count_private=true&theme=react" />  <br>
-<img align="center"  src="https://komarev.com/ghpvc/?username=dilsadkutt&style=plastic&color=blue" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilsad-kut&include_all_commits=true&show_icons=true&theme=react" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilsad-kut&layout=compact&count_private=true&theme=react" />  <br>
+<img align="center"  src="https://komarev.com/ghpvc/?username=dilsad-kut&style=plastic&color=blue" />
      
  ### Contact to Me 💬 
  

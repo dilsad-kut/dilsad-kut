@@ -2,7 +2,8 @@
  <img src="https://github.com/dilsadkutt/dilsadkutt/blob/main/bg/bg4.png">
  
 ### Hi, I'm Dılşad👋 
-***Istanbul University-Management Information Systems, Data Analyst, Business Intelligence*** 
+- :student: Nowadays, I am a student at ***Istanbul University Management Information Systems Undergraduate Program***
+- :sparkles: ***A Data Analyst*** who is interested in ***Business Intelligence***
 - 🌴 I’m currently learning ***Business Intelligence(BI) technologies and tools***
 - 👨‍💻 Some of my projects are available at ***<a href="https://dilsad-kut.github.io">dilsad-kut.github.io</a>***
 - 📝 I rarely write articles on ***[medium.com/@dilsadkut](https://medium.com/@dilsadkut)***

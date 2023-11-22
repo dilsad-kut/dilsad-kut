@@ -14,7 +14,6 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/> <img src = https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png width = '80'><img src = https://www.freecodecamp.org/news/content/images/2020/07/pandas-logo.png width='60'> <img src = https://matplotlib.org/3.2.1/_images/sphx_glr_logos2_003.png width='60'><img src="https://ih1.redbubble.net/image.522683973.1990/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" width="40" height="40"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/> 
 
 ### Some of My Github Stats📈 
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilsad-kut&include_all_commits=true&show_icons=true&theme=react" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilsad-kut&layout=compact&count_private=true&theme=react" />  <br>
 <img align="center"  src="https://komarev.com/ghpvc/?username=dilsad-kut&style=plastic&color=blue" />
 

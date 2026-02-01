@@ -2,7 +2,7 @@
  <img src="https://github.com/dilsadkutt/dilsadkutt/blob/main/bg/bg4.png">
  
 ### Hi, I'm Dılşad👋 
-- 📚 Nowadays, I am a ***Junior Data Executive @Ipsos Turkiye*** 
+- 📚 Nowadays, I am a ***Data Executive @Ipsos Turkiye*** 
 - ✨ ***A Data Analyst*** who is interested in ***Business Intelligence***
 - 🌴 I’m currently learning ***Business Intelligence(BI) technologies and tools***
 - 👨‍💻 Some of my projects are available at ***<a href="https://dilsad-kut.github.io">dilsad-kut.github.io</a>***
